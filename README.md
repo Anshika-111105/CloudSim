@@ -71,8 +71,8 @@ The output will include:
 - Research papers on Inter-VM Communication in Cloud Computing
 
 ## Contributors
-- **Anshika Saklani** (Project Lead)
-- [Team Member]- Akriti Rawat, Manya Chauhan
+- **Anshika Saklani** 
+- [Team Member]- **Akriti Rawat, Manya Chauhan**
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
